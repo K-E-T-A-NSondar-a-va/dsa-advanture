@@ -2,7 +2,7 @@ package stack;
 
 import java.util.Stack;
 
-// brillient: solved in one go !!
+// Medium brillient: solved in one go !!
 
 public class EvaluateExpression {
     public int evalRPN(String[] tokens) {
